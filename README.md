@@ -1,2 +1,2 @@
 # bookshelf-api
-Submission for Dicoding Back-End Starter course using JavaScript, HAPI
+Submission for Dicoding Back-End Starter course using Node.js, JavaScript, HAPI
